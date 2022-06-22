@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "Yiko",
+  "address": "0x5966e906080c39D4d57d2410B6Ff3803561aA3B0",
+  "risk": "2",
+  "title": "Admin Change Can't be Done If the Admin is Lost",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/6"
+}
