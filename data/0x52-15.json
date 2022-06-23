@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "0x52",
+  "address": "0x522DFfc539c264A8f7E0B91102E899b33f4DAbc3",
+  "risk": "3",
+  "title": "lend deposits fees into swivel instead holding as underlying causing the balance of fees in the contract to not accurately reflect the actual amount in the contract",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/15"
+}
