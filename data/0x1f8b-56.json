@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "0x1f8b",
+  "address": "0x8DB32d6ECCe6b7a3DBEbFAEbE9B329022EC86aCF",
+  "risk": "3",
+  "title": "Allow to burn and steal arbitrary tokens in Redeemer",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/56"
+}
