@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "0xNazgul",
+  "address": "0x714Af4c78135Ec866a3cd34755BDB59cdb9b7246",
+  "risk": "2",
+  "title": "Lack of Two-Step Process for Critical Operations",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/68"
+}
