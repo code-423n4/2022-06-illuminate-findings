@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "kirk-baird",
+  "address": "0xC07AB0222713175389FD105Bb85FA82d8510d13E",
+  "risk": "2",
+  "title": "Centralisation Risk: Admin Can Change Important Variables To Steal Funds",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/44"
+}
