@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "BowTiedWardens",
+  "address": "0x644AEDa9E5797474B28A656d9e2016A927B0aE1B",
+  "risk": "3",
+  "title": "Low level calls with solidity version 0.8.13 can result in optimiser bug.",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/86"
+}
