@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "poirots",
+  "address": "0x1B2f066126475d61bb7a24261Ac30EAB00d84c40",
+  "risk": "3",
+  "title": "One of the lend functions does not accumulate fees",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/101"
+}
