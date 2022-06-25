@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "3",
+  "title": "Receiver can redeem more tokens than approved allowance of a holder.",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/179"
+}
