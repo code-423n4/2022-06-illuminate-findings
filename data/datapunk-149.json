@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "datapunk",
+  "address": "0x13d75851ba4bc661c8d0e10b7f51bbf95a3e448e",
+  "risk": "3",
+  "title": "INotional(principal).maxRedeem(address(this)) does not actually redeem",
+  "issueId": 149,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/149"
+}
