@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "hansfriese",
+  "address": "0xf2dCB1d3B7091Dcf2cE87aD115377C108ebE6DD4",
+  "risk": "3",
+  "title": "Users can't receive back underlying tokens when they redeem.",
+  "issueId": 164,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/164"
+}
