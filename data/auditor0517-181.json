@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "auditor0517",
+  "address": "0x0FCf87f1cA8Ea435F2517880A33329005c464127",
+  "risk": "3",
+  "title": "Redeemer.redeem() for Illuminate doesn't send the asset to the user.",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/181"
+}
