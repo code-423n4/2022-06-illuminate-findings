@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "pashov",
+  "address": "0x1797c3BcEBF8c858a916FCbbd0359F65F5484915",
+  "risk": "3",
+  "title": "### Bad access control in `MarketPlace.sol` can lead to stolen funds",
+  "issueId": 113,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/113"
+}
