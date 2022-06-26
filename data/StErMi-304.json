@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "StErMi",
+  "address": "0x2272a321f0151189d66881f5C0971899897eF71B",
+  "risk": "3",
+  "title": "`ERC5095` contract allow the spender to withdraw/redeem endlessly the available allowance from holder",
+  "issueId": 304,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/304"
+}
