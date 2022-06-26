@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "2",
+  "title": "Principal Tokens from Lender contract can be locked in Redeemer",
+  "issueId": 251,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/251"
+}
