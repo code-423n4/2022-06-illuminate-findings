@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "Potential interests are not distributed fairly among the zcTokens holders, nor taken as a protocol fee, but will be frozen in the redeemer contract",
+  "issueId": 354,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/354"
+}
