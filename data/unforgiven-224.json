@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "it's possible to mint unlimited iPT tokens in functions lend(yield), lend(swivel), lend(element) and lend(sense) of Lender, because code mint amount based on return value of call to attacker specified address",
+  "issueId": 224,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/224"
+}
