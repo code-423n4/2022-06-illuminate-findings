@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "tintin",
+  "address": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
+  "risk": "2",
+  "title": "Rug vector for admin of `Lender.sol` who can max approve all principal tokens for any market without waiting the 3 days to themselves",
+  "issueId": 305,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/305"
+}
