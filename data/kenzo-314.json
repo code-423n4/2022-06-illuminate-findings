@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "2",
+  "title": "Lending on APWine pool: incorrect signature will lead to revert",
+  "issueId": 314,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/314"
+}
