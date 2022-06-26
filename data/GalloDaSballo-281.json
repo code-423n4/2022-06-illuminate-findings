@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "3",
+  "title": "User Provided aave and APYWine pool address allow attacker to mint infinite tokens",
+  "issueId": 281,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/281"
+}
