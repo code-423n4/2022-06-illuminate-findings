@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "3",
+  "title": "Tempus lend method wrongly calculates amount of iPT tokens to mint",
+  "issueId": 222,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/222"
+}
