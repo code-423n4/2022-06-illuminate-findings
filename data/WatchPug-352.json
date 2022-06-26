@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "Potential losses are not distributed fairly among the zcTokens holder, making users that withdraw earlier will be able to get back 100% of the face value, and the late users may not be able to redeem",
+  "issueId": 352,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/352"
+}
