@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "redeem(Illuminate) don't transfer any token for msg.sender or specified address after burning the tokens",
+  "issueId": 216,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/216"
+}
