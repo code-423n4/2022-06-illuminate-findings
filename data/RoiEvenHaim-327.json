@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "RoiEvenHaim",
+  "address": "0xf0734088F16B1F9Ffc22b202756E985535B13e98",
+  "risk": "2",
+  "title": "No check for set with address(0) ",
+  "issueId": 327,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/327"
+}
