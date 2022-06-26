@@ -1,0 +1,9 @@
+{
+  "contest": 134,
+  "handle": "simon135",
+  "address": "0x7bFbaBDa21BEEBB17E284901BfC41E942F8128C8",
+  "risk": "2",
+  "title": "If a token contract has a mint function like `ERC5095.sol`  where the mint function is onlyadmin then it will revert ",
+  "issueId": 288,
+  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/288"
+}
