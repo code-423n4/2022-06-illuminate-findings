@@ -1,9 +1,0 @@
-{
-  "contest": 134,
-  "handle": "pashov",
-  "address": "0x1797c3BcEBF8c858a916FCbbd0359F65F5484915",
-  "risk": "2",
-  "title": "### Smart contracts exceed the code size limit of 24576 bytes",
-  "issueId": 114,
-  "issueUrl": "https://github.com/code-423n4/2022-06-illuminate-findings/issues/114"
-}
