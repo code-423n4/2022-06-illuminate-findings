@@ -1,3 +1,11 @@
+---
+sponsor: "Illuminate"
+slug: "2022-06-illuminate"
+date: "2022-08-23"
+title: "Illuminate contest"
+findings: "https://github.com/code-423n4/2022-06-illuminate-findings/issues"
+contest: 134
+---
 
 # Overview
 
